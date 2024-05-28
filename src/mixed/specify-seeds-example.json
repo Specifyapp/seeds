@@ -8,7 +8,8 @@
           "width": 800,
           "format": "jpg",
           "height": 400,
-          "variationLabel": null
+          "variationLabel": null,
+          "provider":"Specify"
         }
       }
     },
@@ -20,7 +21,8 @@
           "width": 800,
           "format": "jpg",
           "height": 400,
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     },
@@ -32,7 +34,8 @@
           "width": 800,
           "format": "jpg",
           "height": 400,
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     }
@@ -2063,7 +2066,8 @@
         "default": {
           "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/f25868fd-e7aa-4739-8ed3-2ed1d35c0a27/173d472b-e4a5-49a1-8c27-1b029ecb7681/5011103-edee863d6c231b2b9210e479cb80977ff9bf9026.svg",
           "format": "svg",
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     },
@@ -2073,7 +2077,8 @@
         "default": {
           "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/f25868fd-e7aa-4739-8ed3-2ed1d35c0a27/173d472b-e4a5-49a1-8c27-1b029ecb7681/5011119-4e05e72a5690796f22788b5b800195a59aa86953.svg",
           "format": "svg",
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     },
@@ -2083,7 +2088,8 @@
         "default": {
           "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/f25868fd-e7aa-4739-8ed3-2ed1d35c0a27/173d472b-e4a5-49a1-8c27-1b029ecb7681/5011101-0b91e4db620fc5b716268e54e0d93289f33738dc.svg",
           "format": "svg",
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     },
@@ -2093,7 +2099,8 @@
         "default": {
           "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/f25868fd-e7aa-4739-8ed3-2ed1d35c0a27/173d472b-e4a5-49a1-8c27-1b029ecb7681/5011121-0d1f3bc215229166aa4a125a1f9303322d60490e.svg",
           "format": "svg",
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     },
@@ -2103,7 +2110,8 @@
         "default": {
           "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/f25868fd-e7aa-4739-8ed3-2ed1d35c0a27/173d472b-e4a5-49a1-8c27-1b029ecb7681/5011109-a24f7955f5893abe22d1a94b0c8be5f634d2c234.svg",
           "format": "svg",
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     },
@@ -2113,7 +2121,8 @@
         "default": {
           "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/f25868fd-e7aa-4739-8ed3-2ed1d35c0a27/173d472b-e4a5-49a1-8c27-1b029ecb7681/501191-b7a3400d82d4b7090332b1edfa700f5c41d95fb4.svg",
           "format": "svg",
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     },
@@ -2123,7 +2132,8 @@
         "default": {
           "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/f25868fd-e7aa-4739-8ed3-2ed1d35c0a27/173d472b-e4a5-49a1-8c27-1b029ecb7681/501199-29300e9551cd78834f8f554a5736f28971a12454.svg",
           "format": "svg",
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     },
@@ -2133,7 +2143,8 @@
         "default": {
           "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/f25868fd-e7aa-4739-8ed3-2ed1d35c0a27/173d472b-e4a5-49a1-8c27-1b029ecb7681/5011117-2f68c6f3e2723bb249327cc5eaa42753cfc8d646.svg",
           "format": "svg",
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     },
@@ -2143,7 +2154,8 @@
         "default": {
           "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/f25868fd-e7aa-4739-8ed3-2ed1d35c0a27/173d472b-e4a5-49a1-8c27-1b029ecb7681/5011113-cc939b1aeae3042625705af492ce8719c13929e3.svg",
           "format": "svg",
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     },
@@ -2153,7 +2165,8 @@
         "default": {
           "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/f25868fd-e7aa-4739-8ed3-2ed1d35c0a27/173d472b-e4a5-49a1-8c27-1b029ecb7681/501187-1e2aa19714cc0f00e4c14f93b0a756a8e8548b88.svg",
           "format": "svg",
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     },
@@ -2163,7 +2176,8 @@
         "default": {
           "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/f25868fd-e7aa-4739-8ed3-2ed1d35c0a27/173d472b-e4a5-49a1-8c27-1b029ecb7681/501197-46ce926f91db7a773640a694f34e7af666f4191b.svg",
           "format": "svg",
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     },
@@ -2173,7 +2187,8 @@
         "default": {
           "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/f25868fd-e7aa-4739-8ed3-2ed1d35c0a27/173d472b-e4a5-49a1-8c27-1b029ecb7681/5011111-32f9fc4d1568f1c21ddf067d8bcdd0950d0d75a5.svg",
           "format": "svg",
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     },
@@ -2183,7 +2198,8 @@
         "default": {
           "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/f25868fd-e7aa-4739-8ed3-2ed1d35c0a27/173d472b-e4a5-49a1-8c27-1b029ecb7681/501193-8db6692ad0a75728a465f76ae7600b3d30920a41.svg",
           "format": "svg",
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     },
@@ -2193,7 +2209,8 @@
         "default": {
           "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/f25868fd-e7aa-4739-8ed3-2ed1d35c0a27/173d472b-e4a5-49a1-8c27-1b029ecb7681/501185-4247c345c71a8bdeaab2c3bb47b7a4e99697d164.svg",
           "format": "svg",
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     },
@@ -2203,7 +2220,8 @@
         "default": {
           "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/f25868fd-e7aa-4739-8ed3-2ed1d35c0a27/173d472b-e4a5-49a1-8c27-1b029ecb7681/5011115-d4043b5972756cdbbce3a32804dfc46442004e44.svg",
           "format": "svg",
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     },
@@ -2213,7 +2231,8 @@
         "default": {
           "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/f25868fd-e7aa-4739-8ed3-2ed1d35c0a27/173d472b-e4a5-49a1-8c27-1b029ecb7681/501195-2719dbc14a475de8cfc1a63aad8b2578f8aa6e0f.svg",
           "format": "svg",
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     },
@@ -2223,7 +2242,8 @@
         "default": {
           "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/f25868fd-e7aa-4739-8ed3-2ed1d35c0a27/173d472b-e4a5-49a1-8c27-1b029ecb7681/5011107-d9c10c5a1e39d511dea312ffbbc7a55e9680d225.svg",
           "format": "svg",
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     },
@@ -2233,7 +2253,8 @@
         "default": {
           "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/f25868fd-e7aa-4739-8ed3-2ed1d35c0a27/173d472b-e4a5-49a1-8c27-1b029ecb7681/5011105-0a8ad3277b4c9e5eb0139f7daa7a4e376e0a369b.svg",
           "format": "svg",
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     },
@@ -2243,7 +2264,8 @@
         "default": {
           "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/f25868fd-e7aa-4739-8ed3-2ed1d35c0a27/173d472b-e4a5-49a1-8c27-1b029ecb7681/501189-ce48a9980b2b39fd4c85830afcd34543904b9bfd.svg",
           "format": "svg",
-          "variationLabel": null
+          "variationLabel": null,
+          "provider": "Specify"
         }
       }
     }
